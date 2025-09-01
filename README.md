@@ -1,7 +1,7 @@
 # Mpv BOK Config
 ### Kişiselleştirilmiş Mpv Config
-![Arayüz Örnek](Screenshots\mpv-bok-1.png)
-![Sağ Tık Menü Örnek](Screenshots\mpv-bok-2.png)
+![Arayüz Örnek](Screenshots/mpv-bok-1.png)
+![Sağ Tık Menü Örnek](Screenshots/mpv-bok-2.png)
 # Genel Bakış
 Kendi kullandığım mpv config dosyalarıdır, geliştirilmiş UOSC arayüzü, sağ tık menüsü ve çeşitli scriptleri içerir. Arayüzü normal bir kullanıcı için yeterli seviyededir. İnsancıl bir mpvdir, ısırmaz, ağzından salya akmaz, bakanı korkutmaz.
 
