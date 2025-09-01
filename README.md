@@ -15,4 +15,4 @@ Shader ve profiller içindedir istediğiniz shader'ı sağ tık menüsünden vey
 - `CTRL+p` Tuş atamaları Cheatsheet.
 
 # Kurulum
-portable_config klasörünü mpv.exe'nin olduğu dizine atınız.
+`portable_config` klasörünü mpv.exe'nin olduğu dizine atınız.
