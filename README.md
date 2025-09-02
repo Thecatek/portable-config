@@ -5,7 +5,7 @@
 # Genel Bakış
 Kendi kullandığım mpv config dosyalarıdır, geliştirilmiş UOSC arayüzü, sağ tık menüsü ve çeşitli scriptleri içerir. Arayüzü normal bir kullanıcı için yeterli seviyededir. İnsancıl bir mpvdir, ısırmaz, ağzından salya akmaz, bakanı korkutmaz.
 
-Shader ve profiller içindedir istediğiniz shader'ı sağ tık menüsünden veyahut belirlenen tuş atamalarıyla aç kapat yapabilirsiniz. Shader profilleri ile halihazırda kombine edilmiş shader'ları da çalıştırabilirsiniz. Anime ve Movie / Series olarak iki adet altyazı profili bulunmaktadır, altyazı stili ve tercih edilen dil bu profille birlikte değişir, ses dili de değişir.
+Shader ve profiller içindedir, istediğiniz shader'ı sağ tık menüsünden veyahut belirlenen tuş atamalarıyla aç kapat yapabilirsiniz. Shader profilleri ile halihazırda kombine edilmiş shader'ları da çalıştırabilirsiniz. Anime ve Movie / Series olarak iki adet altyazı profili bulunmaktadır, altyazı stili ve tercih edilen dil bu profille birlikte değişir, ses dili de değişir.
 
 # Tuş atamaları
 - `CTRL+r` Genel reset.
